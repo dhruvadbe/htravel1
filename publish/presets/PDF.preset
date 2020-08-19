@@ -41,6 +41,7 @@
       <marginitem type="number">15</marginitem>
     </margin>
     <multiheaders type="boolean">false</multiheaders>
+    <downloadTimeout type="number">200</downloadTimeout>
   </pdf>
   <outputPath>C:/Users/daggarwa/Documents/My RoboHelp Projects/outputs/w2erwqe/PDF</outputPath>
   <patchHomepage type="boolean">true</patchHomepage>
