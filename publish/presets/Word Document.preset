@@ -4,15 +4,10 @@
   <type>word</type>
   <title>Blank Project</title>
   <content>
-    <index type="boolean">true</index>
     <toc>
       <path>../../toc/Default.toc</path>
       <name>Default</name>
     </toc>
-    <glossary>
-      <path>../../glossary/Default.glo</path>
-      <name>Default</name>
-    </glossary>
     <masterpage></masterpage>
     <brs type="array"></brs>
   </content>

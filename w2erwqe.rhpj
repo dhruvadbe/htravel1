@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="2019.0.14">
+<project version="2020.4.0">
 <title>w2erwqe</title>
+<id>b081bb12-0d94-42e9-b4a9-2d8a9b4ce8f4</id>
 <preferences>
 <language>en_US</language>
 <noInlineStyle>false</noInlineStyle>
@@ -39,6 +40,8 @@
 <color name="Silver" value="#C0C0C0"></color></colors>
 <links></links>
 <scripts></scripts>
+<authortabs></authortabs>
+<outputtabs></outputtabs>
 <content root="contents/"></content>
 <toc root="toc"></toc>
 <snippets root="contents/assets/snippets"></snippets>
@@ -46,4 +49,5 @@
 <index root="index"></index>
 <seealso root="seealso"></seealso>
 <variable root="variable"></variable>
-<condition root="condition"></condition></project>
+<condition root="condition"></condition>
+<microcontent root="contents/microcontent"></microcontent></project>
