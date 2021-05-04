@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="2020.4.0">
+<project version="2020.5.0">
 <title>w2erwqe</title>
 <id>b081bb12-0d94-42e9-b4a9-2d8a9b4ce8f4</id>
 <preferences>
 <language>en_US</language>
 <noInlineStyle>false</noInlineStyle>
+<advancedHtmlHelpOptions>false</advancedHtmlHelpOptions>
 <defaultCss>contents/assets/css/default.css</defaultCss>
 <defaultWsf>settings/import/word/default.wsf</defaultWsf>
 <defaultFsf>settings/import/fm/default.fsf</defaultFsf></preferences>
